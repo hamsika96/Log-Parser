@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "HTTP log file parser",
+  "main": "logParser.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hamsika",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
